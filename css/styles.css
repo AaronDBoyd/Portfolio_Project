@@ -10,6 +10,8 @@ h1 {
 
 body {
   background-color: darkgoldenrod;
+  border: 4px solid brown;
+  margin: 4px;
 }
 
 .hobbies {
