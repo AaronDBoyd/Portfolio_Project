@@ -1,0 +1,18 @@
+.border {
+  border-image: 12px solid orange;
+  padding: 10px;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: darkgoldenrod;
+}
+
+.hobbies {
+  font-family:monospace;
+  font-weight: bolder;
+}
