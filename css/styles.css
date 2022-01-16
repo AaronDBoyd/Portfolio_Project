@@ -12,6 +12,7 @@ body {
   background-color: darkgoldenrod;
   border: 4px solid brown;
   margin: 4px;
+  padding: 10px;
 }
 
 .hobbies {
@@ -25,4 +26,8 @@ body {
 
 .link_red {
   color:darkred;
+}
+
+img {
+  outline: 3px solid darkred;
 }
