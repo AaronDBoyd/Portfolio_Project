@@ -13,6 +13,8 @@
 
 _I have created this portfolio as an example to show my skills in coding. I will continue to update this page as I learn more techniques. It will serve as a reference page for future employers._
 
+[Link to my site hosted on gh_pages](https://aarondboyd.github.io/Portfolio_Project/)
+
 ## Setup/Installation Requirements
 
 * _Access your computer's terminal shell_
@@ -22,8 +24,6 @@ _I have created this portfolio as an example to show my skills in coding. I will
 * _Initialize git by using the command $ git init_
 * _Clone the repository by using the command $ git clone https://github.com/AaronDBoyd/Portfolio_Project
 * _Access the HTML file by using the command $ code ._
-
-
 
 ## Known Bugs
 
