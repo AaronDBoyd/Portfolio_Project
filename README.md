@@ -28,7 +28,6 @@ _I have created this portfolio as an example to show my skills in coding. I will
 ## Known Bugs
 
 * _No known bugs._
-* 
 
 ## License
 
